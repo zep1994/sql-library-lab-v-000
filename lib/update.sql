@@ -1,0 +1,1 @@
+UPDATE characters SET [column name] = [new value] WHERE [column name] = "Martin";
