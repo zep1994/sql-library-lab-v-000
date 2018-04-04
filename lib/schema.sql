@@ -10,8 +10,8 @@ CREATE TABLE characters (
 CREATE TABLE books (
   id INTEGER PRIMARY KEY,
   title TEXT,
-  year
-
+  year INTEGER,
+  series_id INTEGER
 );
 
 CREATE TABLE series (
